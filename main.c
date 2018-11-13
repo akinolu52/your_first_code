@@ -1,7 +1,8 @@
 // a program edited by Akinyemi Olumide Emmanuel
 int main()
 {
-  for (int count = 0; count < 32; count++)
+  int count;
+  for (count = 0; count < 32; count++)
   {
     printf("Hello Holberton\n");
   }
