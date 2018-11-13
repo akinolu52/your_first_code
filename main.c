@@ -1,9 +1,9 @@
+// a program edited by Akinyemi Olumide Emmanuel
 int main()
 {
-  int i;
-  for (i = 0; i < 10; i++)
+  for (int count = 0; count < 32; count++)
   {
-    printf("Holberton\n");
+    printf("Hello Holberton\n");
   }
   return 0;
 }
