@@ -1,4 +1,3 @@
-// a program edited by Akinyemi Olumide Emmanuel
 int main()
 {
   int count;
